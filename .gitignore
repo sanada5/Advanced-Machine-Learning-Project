@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+
+
+
 # User-specific files
 *.rsuser
 *.suo
@@ -15,6 +18,12 @@
 
 # Mono auto generated files
 mono_crash.*
+
+# data directory
+/data/
+
+
+
 
 # Build results
 [Dd]ebug/
