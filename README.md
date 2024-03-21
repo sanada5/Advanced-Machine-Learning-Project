@@ -1,5 +1,5 @@
 # Regression Pipeline
- This repository contains a comprehensive machine learning pipeline for a regression task in the course ‘Advanced Machine Learning’ at ETH Zürich. The goal of this task is to apply data preprocessing techniques, hyperparameter tuning, model optimization to predict the age of the person from brain data (consisting of informative features derived from brain image data using FreeSurfer). The pipeline was developed by me and Erges Mema.
+ This repository contains a comprehensive machine learning pipeline for a regression task in the course ‘Advanced Machine Learning’ at ETH Zürich. The goal of this task is to apply data preprocessing techniques, hyperparameter tuning, model optimization to predict the age of the person from brain data (consisting of informative features derived from brain image data using FreeSurfer). The pipeline was developed by me and Erges Mema. 
 # Key Features:
  ## Data Preprocessing:
    -Imputation of missing values using median imputation.
